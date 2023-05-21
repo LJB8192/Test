@@ -1,4 +1,4 @@
 # Test
 git test repository
 # git test
-print(hello)
+안녕 git야!!
